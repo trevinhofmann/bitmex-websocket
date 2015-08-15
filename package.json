@@ -1,6 +1,6 @@
 {
   "name": "bitmex-websocket",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A node.js wrapper for the BitMEX Bitcoin derivatives exchange websocket API",
   "author": "Trevin Hofmann <trevinhofmann@gmail.com>",
   "main": "index.js",
